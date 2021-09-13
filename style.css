@@ -1,8 +1,5 @@
-@font-face{
- font-family: 'dan'
- src: url(DancingScript-Bold.ttf);  
+a{
+    text-decoration: none;
+    color: white;
 }
 
-p{
-font-family: 'dan'
-}
