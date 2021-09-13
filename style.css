@@ -4,6 +4,6 @@ a{
 }
 
 body{
-    background: linear-gradient(to top, #C6FFDD, #FBD786, #f7797d);
+    background: -webkit-linear-gradient(#FBD786, #f7797d);
 }
 
