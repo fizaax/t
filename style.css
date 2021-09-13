@@ -3,3 +3,7 @@ a{
     color: white;
 }
 
+body{
+    background: linear-gradient(to right, #43C6AC, #F8FFAE);
+}
+
